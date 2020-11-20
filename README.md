@@ -31,5 +31,9 @@ implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.6"
 </pre>
 
 
-##Screenshots
+## Screenshots
+
+![img1](dagger2img1.jpg?raw=true)
+
+![img2](dagger2img2.jpg?raw=true)
 
